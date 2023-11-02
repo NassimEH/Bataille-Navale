@@ -18,5 +18,5 @@ This project represents our collaborative effort to create a Battleship game ent
 
 ## Authors
 
-- [Nassim EL HADDAD](https://github.com/NassimEH)
+- [Nassim EL HADDAD](https://www.linkedin.com/in/nassim-el-haddad-4aa298271/)
 - [Flavio Da Veiga Sanchez Carvalho](https://www.linkedin.com/in/fl%C3%A1vio-carvalho-b182b326b/)
