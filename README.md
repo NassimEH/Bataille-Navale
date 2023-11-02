@@ -1,11 +1,22 @@
-## Introduction
+# Battleship Game
 
-This project is a digital implementation of the classic board game "Battleship" developed in C. It was created by a team of two as part of a first-year programming project. The game is designed to be played in a terminal environment and provides an interactive experience.
+## Description
 
-## Features
+This project represents our collaborative effort to create a Battleship game entirely playable in the terminal using the C programming language. It's a classic game of strategy and skill brought to the command line, providing a fun and engaging experience for two players.
 
-- A fully functional implementation of the Battleship game.
-- Supports two-player mode (Player vs. Player).
-- Interactive terminal-based gameplay.
-- Randomized ship placement for added replayability.
-- Easy-to-understand user interface.
+
+## How to Play
+
+1. Clone the repository to your local machine.
+2. Compile the source code using a C compiler (e.g., GCC).
+3. Run the executable.
+4. Follow the on-screen instructions to start and play the game.
+
+## Technologies Used
+
+- C Programming Language
+
+## Authors
+
+- [Nassim EL HADDAD](https://github.com/NassimEH)
+- [Flavio Da Veiga Sanchez Carvalho](https://www.linkedin.com/in/fl%C3%A1vio-carvalho-b182b326b/)
